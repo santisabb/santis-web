@@ -11,14 +11,14 @@ body{
 
 .container-left{
     width: 30%;
-    background-color:coral;
+    background-color:#FFA400;
     padding: 1rem;
 }
 
 .menu-item{
     display: block;
     padding: 1rem;
-    background-color: aquamarine;
+    background-color: #CFF27E;
     text-align: center;
 }
 
@@ -32,6 +32,16 @@ body{
     background-color:bisque;
     padding: 1rem;
     text-align: center;
+}
+
+.container-right-index{
+    width: 100%;
+    padding: 1rem;
+    text-align: center;
+}
+
+.señor-x-img{
+    width: 100%;
 }
 
 .title-right{
